@@ -11,9 +11,25 @@ Exemplo:
 <script src="https://sohtec.com.br/services/Scripts/ClientProd.js" type="text/javascript"></script>
 ```
 
-### 1º - Adicionar Botão (Agende sua Visita e Alugue Online)
+### 2º - Adicionar Botão (Área do Cliente)
 
-Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.
+Adicione o código abaixo no lugar onde você deseja que o texto seja mostrado.</br>
+No lugar das variáveis substitua com os dados do imóvel que desejar. 
+
+Exemplo:
+```html {.line-numbers}
+<script type="text/javascript">
+    SOH.Exec({
+        "buttonColorBg": "blue",
+        "clienteId": "ID_DA_SUA_EMPRESA",
+    });
+</script>
+
+```
+
+### 3º - Adicionar Botão (Agende sua Visita e Alugue Online)
+
+Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.</br>
 No lugar das variáveis substitua com os dados do imóvel que desejar. 
 
 Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
@@ -42,3 +58,8 @@ Exemplo:
     });
 </script>
 ```
+
+As cores de botões disponíveis são:</br>
+green</br>
+blue</br>
+write</br>
