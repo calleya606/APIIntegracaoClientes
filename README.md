@@ -59,7 +59,7 @@ Exemplo:
 </script>
 ```
 
-As cores de botões disponíveis são:</br>
+**As cores de botões disponíveis são:**</br>
 green</br>
 blue</br>
 write</br>
