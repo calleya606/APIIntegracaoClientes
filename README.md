@@ -14,7 +14,7 @@ Exemplo:
 ### 2º - Adicionar Botão (Área do Cliente)
 
 Adicione o código abaixo no lugar onde você deseja que o texto seja mostrado.</br>
-No lugar das variáveis substitua com os dados do imóvel que desejar. 
+Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
 
 Exemplo:
 ```html {.line-numbers}
