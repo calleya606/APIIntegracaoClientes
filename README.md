@@ -41,7 +41,7 @@ Exemplo:
         "buttonColorBg": "blue",
         "clienteId": "ID_DA_SUA_EMPRESA",
         "imovelId": "",
-        "imovelUrl": "",
+        "imovelUrl": "", //Informe a URL Absoluta da imagem
         "imovelEndereco": "",
         "imovelNumero": "",
         "imovelComplemento": "",
