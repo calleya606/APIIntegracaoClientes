@@ -20,7 +20,7 @@ Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
     SOH.Exec({       
-        "clienteId": "ID_DA_SUA_EMPRESA",
+        "clienteId": "ID_DA_SUA_EMPRESA"
     });
 </script>
 
