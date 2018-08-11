@@ -19,8 +19,7 @@ Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
 Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
-    SOH.Exec({
-        "buttonColorBg": "blue",
+    SOH.Exec({       
         "clienteId": "ID_DA_SUA_EMPRESA",
     });
 </script>
